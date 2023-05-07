@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Saliha
+<h1 align="center"> Hi there 👋 I'm Saliha </h1>
 
 Data Science student with a tech passion, eager to learn and grow. Excited for new opportunities and ready to contribute to the tech world.
 
