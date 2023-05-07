@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 I'm Saliha </h1>
+<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> I'm Saliha </h1>
 
 <h5 align="center" >Data Science student with a tech passion, eager to learn and grow. Excited for new opportunities and ready to contribute to the tech world.</h5>
 
